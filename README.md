@@ -1,5 +1,7 @@
 # AtlanticWaterIntrusions2023
-Code to reproduce Snow et al. in review with the Journal of Geophysical Research: Oceans
+Code to reproduce Snow et al. (2023): \
+Snow, T., Zhang, W., Schreiber, E., Siegfried, M., Abdalati, W., Scambos, T. (2023). Alongshore winds force warm Atlantic Water toward Helheim Glacier in southeast Greenland, Journal of Geophysical Research: Oceans. [https://doi.org/10.1029/2023JC019953](https://doi.org/10.1029/2023JC019953)
+
 
 Notebooks: \
 MODISWindEvents is in a final version and produces Figures 2, 4, 6, 7, bottom panel of S1, S3, and Table S1 \
