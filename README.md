@@ -1,4 +1,4 @@
-# AtlanticWaterIntrusions2023
+# Atlantic Water Intrusions in Southeastern Greenland
 Code to reproduce Snow et al. (2023): \
 Snow, T., Zhang, W., Schreiber, E., Siegfried, M., Abdalati, W., Scambos, T. (2023). Alongshore winds force warm Atlantic Water toward Helheim Glacier in southeast Greenland, Journal of Geophysical Research: Oceans. [https://doi.org/10.1029/2023JC019953](https://doi.org/10.1029/2023JC019953)
 
