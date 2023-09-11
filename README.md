@@ -7,3 +7,5 @@ MODISWindsSSHMooring still needs some cleaning, but produces Figures 5 and S1 \
 MODISWindsFig2_Visible still needs some cleaning, but produces Figures 3, 8, top panel of S1, and Movie S1 \
 MODISsstExtraction still needs some cleaning, but produces Figure 1a \
 Figure 8 was finished in QGIS
+
+This work is licensed under an MIT license.
